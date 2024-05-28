@@ -1,0 +1,242 @@
+[
+    {
+        "brgy": "Salawag",
+        "place": "Avida Santa Cecilia",
+        "coordinates": { "lat": 14.331456959334234, "lng": 120.98819091373844 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "TUP Cavite",
+        "coordinates": { "lat": 14.345033083543518, "lng": 120.96610189975519}
+    },
+    {
+        "brgy": "Salawag",
+        "place": "District Dasma",
+        "coordinates": { "lat": 14.360065923947133, "lng": 120.98204604282142}
+    },
+    {
+        "brgy": "Salawag",
+        "place": "Salawag Elementary School",
+        "coordinates": { "lat": 14.35315881916426, "lng": 120.98061298303547}
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 Saint Jude",
+        "coordinates": { "lat": 14.3427913, "lng": 120.9453688 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Main Gate (SMCHC)",
+        "coordinates": { "lat": 14.32414383, "lng": 120.9843569 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Classic",
+        "coordinates": { "lat": 14.3339083, "lng": 120.9453688 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino North 1",
+        "coordinates": { "lat": 14.3304932, "lng": 120.9763219 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino South 2 Washington",
+        "coordinates": { "lat": 14.32592012, "lng": 120.9815496 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Phase 1",
+        "coordinates": { "lat": 14.32418931, "lng": 120.9781365 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Chesterey",
+        "coordinates": { "lat": 14.3272668, "lng": 120.9775827 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Phase 3",
+        "coordinates": { "lat": 14.3278912, "lng": 120.9759101 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Manukan",
+        "coordinates": { "lat": 14.32995115, "lng": 120.9776295 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Phase 5",
+        "coordinates": { "lat": 14.32823596, "lng": 120.9792419 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Heights",
+        "coordinates": { "lat": 14.33307662, "lng": 120.9771715 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Bangkok",
+        "coordinates": { "lat": 14.32902599, "lng": 120.9783953 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 San Marino Lebanon (Central A)",
+        "coordinates": { "lat": 14.32620692, "lng": 120.9801602 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 Salawag Main Terminal (Crossing)",
+        "coordinates": { "lat": 14.3535527, "lng": 120.9806048 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 Brgy. Hall Salawag Terminal",
+        "coordinates": { "lat": 14.344899, "lng": 120.9817821 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 Savemore Salawag",
+        "coordinates": { "lat": 14.3506601, "lng": 120.9808103 }
+    },
+    {
+        "brgy": "Salawag",
+        "place": "🚲 The District Mall Dasma",
+        "coordinates": { "lat": 14.358763, "lng": 120.981854 }
+    },
+    {
+        "brgy": "Paliparan III",
+        "place": "Coco Valley Resort",
+        "coordinates": { "lat": 14.316599597379854, "lng": 120.98537773780912 }
+    },
+    {
+        "brgy": "Paliparan III",
+        "place": "🚲 Paliparan III Main Terminal",
+        "coordinates": { "lat": 14.321141, "lng": 120.983922 }
+    },
+    {
+        "brgy": "Paliparan III",
+        "place": "🚲 Jollibee Paliparan Terminal",
+        "coordinates": { "lat": 14.3200635, "lng": 120.9850733 }
+    },
+    {
+        "brgy": "Paliparan III",
+        "place": "🚲 Paliparan Site",
+        "coordinates": { "lat": 14.3200354, "lng": 120.9805721 }
+    },
+    {
+        "brgy": "Paliparan III",
+        "place": "🚲 Mercury Paliparan Terminal",
+        "coordinates": { "lat": 14.3199826, "lng": 120.9850935 }
+    },
+    {
+        "brgy": "Paliparan II",
+        "place": "Paliaran 2 Elementary School",
+        "coordinates": { "lat": 14.301784643657975, "lng": 120.99293267734292 }
+    },
+    {
+        "brgy": "Paliparan I",
+        "place": "🚲 Unitop",
+        "coordinates": { "lat": 14.2878091, "lng": 120.9880551 }
+    },
+    {
+        "brgy": "Sampaloc IV",
+        "place": "Memorial Park Dasma",
+        "coordinates": { "lat": 14.292001024306453, "lng": 120.97294095863926 }
+    },
+    {
+        "brgy": "Sampaloc IV",
+        "place": "🚲 St. Charbel Main Terminal Gate 1",
+        "coordinates": { "lat": 14.29945194, "lng": 120.9651058 }
+    },
+    {
+        "brgy": "Sampaloc I",
+        "place": "SM Dasma",
+        "coordinates": { "lat": 14.301004000820532, "lng": 120.95643366674055 }
+    },
+    {
+        "brgy": "Sampaloc I",
+        "place": "🚲 SM Dasma Terminal",
+        "coordinates": { "lat": 14.30008913, "lng": 120.9576689 }
+    },
+    {
+        "brgy": "San Agustin II",
+        "place": "Vista Mall Dasmariñas",
+        "coordinates": { "lat": 14.31706971958988, "lng": 120.94418200478322 }
+    },
+    {
+        "brgy": "Zone IV",
+        "place": "WalterMart Dasmariñas",
+        "coordinates": { "lat": 14.324878721544312, "lng": 120.94129998987114 }
+    },
+    {
+        "brgy": "Zone IV",
+        "place": "🚲 WalterMart Terminal",
+        "coordinates": { "lat": 14.3252507, "lng": 120.9406817 }
+    },
+    {
+        "brgy": "Zone I",
+        "place": "City Hall Dasma",
+        "coordinates": { "lat": 14.32663480201323, "lng": 120.93642744291274 }
+    },
+    {
+        "brgy": "Burol",
+        "place": "Barzaga Compound",
+        "coordinates": { "lat": 14.3250603, "lng": 120.9453688 }
+    },
+    {
+        "brgy": "Burol",
+        "place": "DLSU-D Gate 1",
+        "coordinates": { "lat": 14.321672006914632, "lng": 120.96358375553237 }
+    },
+    {
+        "brgy": "Burol",
+        "place": "DLSU-D Gate 3",
+        "coordinates": { "lat": 14.328383387302912, "lng": 120.95684253069207 }
+    },
+    {
+        "brgy": "Burol III",
+        "place": "St. Paul Hospital Cavite",
+        "coordinates": { "lat": 14.323029196850097, "lng": 120.96307193694582 }
+    },
+    {
+        "brgy": "Salitran",
+        "place": "Central Mall Salitran",
+        "coordinates": { "lat": 14.349522746044862, "lng": 120.93849406837431 }
+    },
+    {
+        "brgy": "Salitran",
+        "place": "🚲 Salitran II Terminal beside Brgy. Hall Salitran II",
+        "coordinates": { "lat": 14.3505024, "lng": 120.9387929 }
+    },
+    {
+        "brgy": "Salitran",
+        "place": "🚲 Salitran Terminal",
+        "coordinates": { "lat": 14.350581, "lng": 120.9390242 }
+    },
+    {
+        "brgy": "Area 1",
+        "place": "🚲 Sta. Lucia Main Terminal",
+        "coordinates": { "lat": 14.3365036, "lng": 120.9548081 }
+    },
+    {
+        "brgy": "Area C",
+        "place": "Area C Jeepney Terminal",
+        "coordinates": { "lat": 14.31818721070606, "lng": 120.97101803027101 }
+    },
+    {
+        "brgy": "Area D",
+        "place": "Dexterville Royale",
+        "coordinates": { "lat": 14.315942766197695, "lng": 120.97366713973538 }
+    },
+    {
+        "brgy": "Area D",
+        "place": "🚲 Main Terminal San Nicholas II",
+        "coordinates": { "lat": 14.3178645, "lng": 120.9705817 }
+    },
+    {
+        "brgy": "Area B",
+        "place": "🚲 SM Hypermarket Mall Main Terminal",
+        "coordinates": { "lat": 14.32886357, "lng": 120.9602502 }
+    }
+]  
